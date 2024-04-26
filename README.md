@@ -24,9 +24,9 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 DH-Robotics
 Adaptive Gripper AG-95 TM Kit
-The AG-95 adaptive gripper is designed for multi-purpose gripping applications and can pick objects in different sizes and shapes without changing the end-of-arm tools, with a large stroke and adjustable gripping force. It’s also easy-to-use due to seamless integration with TM collaborative robots.
+The AG-95 adaptive gripper is designed for multi-purpose gripping applications and can pick objects in different sizes and shapes without changing the end-of-arm tools, with a large stroke and adjustable gripping force. It’s also easy to use due to seamless integration with TM collaborative robots.
 
-Through a plug-in installed in the TM flow, user could easily get full access to the control of gripper, including position and force control, as well as gripping detection. With such functions, DH-Robotics AG-95 gripper improves the gripping and manipulating capability of robots used in different scenarios such as machine tending, electronics/automobile components handling, medica, etc.
+Through a plug-in installed in the TM flow, the user could easily get full access to the control of the gripper, including position and force control, as well as gripping detection. With such functions, the DH-Robotics AG-95 gripper improves the gripping and manipulating capability of robots used in different scenarios such as machine tending, electronics/automobile components handling, medical, etc.
 
 Plug & Play with TM robots
 Integrated design, easy-to-use
@@ -37,7 +37,7 @@ Force & position adjustment
 Self-locking
 
                   ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
-### Figure -01 DH gripper with two finger gripper 
+### Figure -01 DH gripper with two-finger gripper 
 
 #### Specifications
 
@@ -74,13 +74,23 @@ Installation position: floor, ceiling, walls.
 
 #### Procedure : 
 
-1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
-2. click on the internet interface 
+1. click on dart platform icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
+2. click on the Internet interface 
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
 3. click on the 
 
+![WhatsApp Image 2024-04-22 at 13 36 22_1fc50e75](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/88b6fd0f-f637-46ba-8be7-dccb237a404a)
+
+
+
+![WhatsApp Image 2024-04-22 at 13 36 23_fddb5ad6](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/f0584cda-7fa4-4a7e-99dc-2ccf1ed94433)
+
+
+
+
+![WhatsApp Image 2024-04-22 at 13 36 24_1c31f42b](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/55152e70-a5fd-4295-8eaf-78a474f8f83a)
 
 
 
@@ -89,26 +99,25 @@ and click on the connect icon
 
 
 
+## OUTPUT :
+
+![WhatsApp Image 2024-04-22 at 13 36 18_b1ea8639](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/2c5ac62b-ddfd-46be-ac5c-590de42fb1f0)
 
 
 
+![WhatsApp Image 2024-04-22 at 13 36 19_808b56e8](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/c83366fb-a7d1-40f6-8c94-6e7640a463de) 
 
 
+![WhatsApp Image 2024-04-22 at 13 36 20_c9edb26b](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/4383cac5-0c5d-4b5b-a3cb-6b7ca49df9a2)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 21_f92230e7](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/d53d5d4d-e89b-408e-9156-3347b2bfd388)
 
-
-### output video and screen shots of pick and place 
-
-
-
-
-
-
-
+## OUTPUT VIDEO: 
+https://drive.google.com/file/d/1Gr1lNOZXkrNBF2OB49eZmlKufhYaThUB/view?usp=drive_link
 ### Results: 
 
-
+Thus, the experiment is completed to pick and place a regular shape using two two-finger grippers on the conveyor belt.
 
 
 
